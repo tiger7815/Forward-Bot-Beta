@@ -20,3 +20,5 @@ ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ
 UPSTREAM_REPO = environ.get("UPSTREAM_REPO", "https://github.com/Joelkb/File-Forward-Bot")
 DB_URI = environ.get('DB_URI', "")
 DB_NAME = environ.get('DB_NAME', "")
+TARGET_DB = int(environ.get("TARGET_DB", ''))
+OWNER = int(environ.get('OWNER', ''))
