@@ -23,7 +23,10 @@ Use these settings when adding a monitor:</b>
 <b>Click on the below button to deploy directly to render ↓</b>
 <br>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/Joelkb/File-Forward-Bot/tree/web">
+<a href="https://render.com/deploy?repo=https://github.com/pjvip/Forward-Bot-Beta/tree/web">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
+Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pjvip/Forward-Bot-Beta)
+  
 </details>
