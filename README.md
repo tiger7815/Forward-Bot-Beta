@@ -30,3 +30,7 @@ Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pjvip/Forward-Bot-Beta)
   
 </details>
+<a href="https://heroku.com/deploy?template=https://github.com/tiger7815/FORWARD-BOT-BETA">
+     <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
+  </a>
+
