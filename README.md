@@ -26,7 +26,8 @@ Use these settings when adding a monitor:</b>
 <a href="https://render.com/deploy?repo=https://github.com/pjvip/Forward-Bot-Beta/tree/web">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
-Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pjvip/Forward-Bot-Beta)
-  
-</details>
+<a href="https://heroku.com/deploy?template=https://github.com/tiger7815/Forward-Bot-Beta">
+     <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
+  </a>
+
+
